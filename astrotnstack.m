@@ -140,7 +140,7 @@ test     =options.test;
 im0      = []; output = [];
 
 % get file names ---------------------------------------------------------------
-disp([ mfilename ': E. Farhi (2017) BSD']);
+disp([ mfilename ': E. Farhi (2017) GPL2']);
 
 dark = resolvefiles(dark, 'Pick a Dark Frame or Cancel to Ignore');
 if ~isempty(dark) && iscellstr(dark) && ~isequal(dark, 0)
