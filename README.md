@@ -107,4 +107,4 @@ See also:
 - DarkTable        http://www.darktable.org/
 - RawTherapee      http://rawtherapee.com/
 
-E. Farhi Dec 2017. Version 1.6.1
+E. Farhi Dec 2017. Version 1.6.2. GPL2.

@@ -80,13 +80,14 @@ function [im0, output] = astrotnstack(varargin)
 %
 % Credits: http://nghiaho.com/?page_id=671
 %
-% See also: LxNstack         https://sites.google.com/site/lxnstack/home
+% See also: 
+%           LxNstack         https://sites.google.com/site/lxnstack/home
 %           Deep Sky Stacker http://deepskystacker.free.fr/french/
 %           Rot'n Stack      http://www.gdargaud.net/Hack/RotAndStack.html
 %           DarkTable        http://www.darktable.org/
 %           RawTherapee      http://rawtherapee.com/
 %
-% E. Farhi Dec 2017 GPL2. Version 1.6.1
+% E. Farhi Dec 2017 GPL2. Version 1.6.2
 
 % init options
 options.tol_trans = 0.01; % 1% of total image width
