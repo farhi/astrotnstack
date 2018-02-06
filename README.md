@@ -1,10 +1,9 @@
-# astrotnstack
-Automatically align and stack astro-photography pictures (Matlab)
-
 ASTROTNSTACK: automatically align and stack astro-photography pictures
 ======================================================================
 
-This function gets a list of images, and automatically determines bright stars
+![Image of AstRotNStack](https://github.com/farhi/astrotnstack/blob/master/doc/screenshot.png)
+
+This function (for Matlab/Octave) gets a list of images, and automatically determines bright stars
 as control points. These are followed along pictures, and used to build an 
 affine transformation at constant scale (e.g. a rotation and translation).
 All images are stacked over the first image used as reference. The images can
@@ -100,10 +99,12 @@ Credits
 -------
 http://nghiaho.com/?page_id=671
 
-See also: LxNstack         https://sites.google.com/site/lxnstack/home
-      Deep Sky Stacker http://deepskystacker.free.fr/french/
-      Rot'n Stack      http://www.gdargaud.net/Hack/RotAndStack.html
-      DarkTable        http://www.darktable.org/
-      RawTherapee      http://rawtherapee.com/
+See also: 
+
+- LxNstack         https://sites.google.com/site/lxnstack/home
+- Deep Sky Stacker http://deepskystacker.free.fr/french/
+- Rot'n Stack      http://www.gdargaud.net/Hack/RotAndStack.html
+- DarkTable        http://www.darktable.org/
+- RawTherapee      http://rawtherapee.com/
 
 E. Farhi Dec 2017. Version 1.6.1
