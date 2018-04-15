@@ -86,8 +86,10 @@ function [im0, output] = astrotnstack(varargin)
 %           Rot'n Stack      http://www.gdargaud.net/Hack/RotAndStack.html
 %           DarkTable        http://www.darktable.org/
 %           RawTherapee      http://rawtherapee.com/
+%           mastrostack      https://github.com/farhi/matlab-mastrostack
+%           readraw          https://github.com/farhi/matlab-readraw
 %
-% E. Farhi Dec 2017 GPL2. Version 1.6.2
+% E. Farhi April 2018 GPL2. Version 1.6.3
 
 % init options
 options.tol_trans = 0.01; % 1% of total image width
